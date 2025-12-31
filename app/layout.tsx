@@ -19,23 +19,9 @@ export const metadata: Metadata = {
   title: "RONIN | Cognitive Mastery",
   description: "Sistemas de aprendizaje basados en ciencia cognitiva. Transformo el conocimiento en armas cognitivas.",
   icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
-  },
-    generator: 'v0.app'
+      icon: "/icon.png",
+      apple: "/icon.png",
+    },
 }
 
 export default function RootLayout({
