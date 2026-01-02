@@ -17,7 +17,7 @@ export function SystemsSection() {
     {
       id: "SYS-002",
       moduleId: "MOD_02",
-      title: "Protocolo Samurai",
+      title: "Protocolo RONIN",
       category: "Disciplina Mental",
       description: "Sistema de foco profundo y eliminación de distracciones. Inmersión total.",
       status: "Operativo",
@@ -35,7 +35,7 @@ export function SystemsSection() {
     {
       id: "SYS-004",
       moduleId: "MOD_04",
-      title: "Katana Analítica",
+      title: "Corte Analítico",
       category: "Pensamiento Crítico",
       description: "Metodología para descomponer problemas complejos en soluciones lineales.",
       status: "Beta",
